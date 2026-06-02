@@ -5,6 +5,7 @@
 2. LLM (claude code)로 markdown 문서로 가공
 3. 가공된 문서는  category 별로  지정 폴더로 자동 분류된다.
 4. github mcp 를 통해서 연관 category 폴더에  문서  자동 upload
+
 2,3,4 단계는  claude skill command 를 호출하는 python 에서 수행한다.
 
 # local에서 문서 참고
