@@ -2,6 +2,8 @@
 
 | 업로드 일시 | 제목 | 문서 위치 | 내용 요약 |
 |------------|------|-----------|----------|
+| 2026-06-02 18:27 | 2026-06-02_Oracle-DBCA-NETCA-무인-실행 | [DBMS/Oracle/2026-06-02_Oracle-DBCA-NETCA-무인-실행.md](https://github.com/bsshin71/dbms/blob/main/DBMS/Oracle/2026-06-02_Oracle-DBCA-NETCA-%EB%AC%B4%EC%9D%B8-%EC%8B%A4%ED%96%89.md) | Rocky Linux 9.x에서 Oracle 19c DBCA·NETCA를 응답 파일(... |
+| 2026-06-02 18:27 | 2026-06-02_RockyLinux9.7-Oracle19c-설치 | [DBMS/Oracle/2026-06-02_RockyLinux9.7-Oracle19c-설치.md](https://github.com/bsshin71/dbms/blob/main/DBMS/Oracle/2026-06-02_RockyLinux9.7-Oracle19c-%EC%84%A4%EC%B9%98.md) | Rocky Linux 9.x에서 Oracle 19.3.0.0 GUI 설치는 폐기된 라... |
 | 2026-06-02 18:25 | 2026-06-02_Oracle-DBCA-NETCA-무인-실행 | [DBMS/Oracle/2026-06-02_Oracle-DBCA-NETCA-무인-실행.md](https://github.com/bsshin71/dbms/blob/main/DBMS/Oracle/2026-06-02_Oracle-DBCA-NETCA-%EB%AC%B4%EC%9D%B8-%EC%8B%A4%ED%96%89.md) | Rocky Linux 9.x에서 Oracle 19c DBCA·NETCA를 응답 파일(... |
 | 2026-06-02 18:25 | 2026-06-02_Oracle-Listener-등록 | [DBMS/Oracle/2026-06-02_Oracle-Listener-등록.md](https://github.com/bsshin71/dbms/blob/main/DBMS/Oracle/2026-06-02_Oracle-Listener-%EB%93%B1%EB%A1%9D.md) | 오라클 DB는 기동 시 LREG 백그라운드 프로세스가 자동으로 리스너에 등록(동적 등... |
 | 2026-06-02 18:25 | 2026-06-02_Oracle-유저-생성 | [DBMS/Oracle/2026-06-02_Oracle-유저-생성.md](https://github.com/bsshin71/dbms/blob/main/DBMS/Oracle/2026-06-02_Oracle-%EC%9C%A0%EC%A0%80-%EC%83%9D%EC%84%B1.md) | Oracle 19c에서 사용자를 생성하려면 sysdba 접속 → `_ORACLE_SC... |
