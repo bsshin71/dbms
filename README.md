@@ -3,7 +3,7 @@
 # 문서 생성 절차
 1. raw 문서 생성 ( *.txt , web clipping )
 2. LLM (claude code)로 markdown 문서로 가공
-3. github mcp 를 통해서 연관 category 폴더에  문서 upload
+3. github mcp 를 통해서 연관 category 폴더에  문서  자동 upload
 
 
 # local 문서
