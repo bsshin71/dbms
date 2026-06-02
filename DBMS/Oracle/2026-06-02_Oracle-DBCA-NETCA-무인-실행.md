@@ -107,5 +107,6 @@ dbstart $ORACLE_HOME  # DB + 리스너 일괄 시작
 ```
 
 ## 3. 연관 개념 (지식 연결)
+- 관련 링크: [[2026-06-02_RockyLinux9.7-Oracle19c-설치]]
 - 관련 링크: [[2026-06-02_Oracle-Listener-등록]]
 - 관련 링크: [[2026-06-02_Oracle-유저-생성]]
