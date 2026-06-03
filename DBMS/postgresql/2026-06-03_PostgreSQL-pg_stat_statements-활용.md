@@ -109,3 +109,4 @@ LIMIT 50;
 - 관련 링크: [[2026-06-02_pg_stat_activity-실행중인쿼리-확인]]
 - 관련 링크: [[2026-06-03_PostgreSQL-EXPLAIN-옵션]]
 - 관련 링크: [[2026-06-03_PostgreSQL-Cache-Hit-Miss-비율-조회]]
+- 관련 링크: [[2026-06-03_Oracle-v$sql-스키마별-쿼리수행통계]]
