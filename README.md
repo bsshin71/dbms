@@ -1,5 +1,9 @@
 요즘 유행하는 LLM wiki 에서 생성된 문서 중에 DBMS 관련 문서만 여기 repo 에 자동으로 업로드한다.
 
+
+# 공지 
+*  여기 repo ( dbms)  는 더이상 update 하지 않고  https://github.com/bsshin71/wiki  의 DBMS 경로아래에  신규 문서를 추가합니다.
+
 # 문서 생성 절차
 1. raw 문서 생성 ( *.txt , web clipping )
 2. LLM (claude code)로 markdown 문서로 가공
